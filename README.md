@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm hope-cpu</h1>
 <h3 align="center">Supremacy of law and Beautiful programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hope-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="hope-cpu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hope-cpu" alt="hope-cpu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width=50% title="Hi, nice to meet you!">
+</p>
 
 - 🌱 I’m currently learning **Python and Law**
 
